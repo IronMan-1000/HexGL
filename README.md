@@ -1,1 +1,1 @@
-# HexGL-by-BKcore
+# HexGL-by-Sagnik Biswas
